@@ -1,0 +1,3 @@
+displayName = Annoying Mod
+author = thegigibeast
+version = 0.1
